@@ -1,7 +1,7 @@
 ## Hello Everyone👋
 
 - 🔭 I’m currently working on An **AI Powered Farming Solution**.
-- 🌱 I’m currently learning ** JavaScript and Python**.
+- 🌱 I’m currently learning **JavaScript and Python**.
 - 👯 I’m looking to collaborate on **Artifial Intelligence Projects**.
 - 💬 Ask me about **Web Technologies, App development & Artificial Intelligence**.
 - 📫 How to reach me: Via *briankerio47@gmail.com*.
