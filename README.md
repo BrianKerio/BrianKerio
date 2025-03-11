@@ -6,11 +6,14 @@
 - 💬 Ask me about **Web Technologies, App development & Artificial Intelligence**.
 - 📫 How to reach me: Via *briankerio47@gmail.com*.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: Am in a {Founder Mode/}.
+- ⚡ **Fun fact**:
+- I believe in learning by doing, which is why I often participate in hackathons and coding challenges.
+- I’m integrating Google OAuth, M-Pesa payments, and SMS notifications into my projects—bridging the gap between tech and real-world use cases!
 
 
 
-## 🌐 Socials:
+
+  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/briankerio) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@realBrianKerio) 
 
 # 💻 Tech Stack:
